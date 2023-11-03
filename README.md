@@ -1,6 +1,6 @@
 # Decentralized Social Handbook
 
-A handbook about Decentralized Social, powered by [Zola](https://www.getzola.org/).
+A handbook for Decentralized Social, powered by [Zola](https://www.getzola.org/).
 
 Use the zola theme forked from [https://github.com/XXXMrG/archie-zola](https://github.com/XXXMrG/archie-zola)
 

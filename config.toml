@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "//archie-zola.vercel.app/"
+base_url = "//zusocial-handbook.vercel.app/"
 
 # The site title and description; used in feeds by default.
-title = "archie-zola"
-description = "A zola theme forked from [archie](https://github.com/athul/archie)"
+title = "Decentralized Social Handbook"
+description = "A handbook about Decentralized Social"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -32,9 +32,7 @@ useCDN = false
 
 favicon = "/icon/favicon.png"
 
-copyright = "keith"
-
-ga = "G-6YGDB8SLBT"
+copyright = "ZuSocial"
 
 [extra.translations]
 languages = [{name = "en", url = "/"}]
@@ -58,14 +56,4 @@ menus = [
 [[extra.social]]
 icon = "github"
 name = "GitHub"
-url = "https://github.com/XXXMrG/archie-zola"
-
-[[extra.social]]
-icon = "twitter"
-name = "Twitter"
-url = "https://github.com/XXXMrG/"
-
-[[extra.social]]
-icon = "gitlab"
-name = "GitLab"
-url = "https://gitlab.com/your-name/"
+url = "https://github.com/zusocial/handbook"
